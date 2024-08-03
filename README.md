@@ -1,2 +1,2 @@
 # PhoneBook_Mini_Project
-A DSA concept implementation simple project based on DSA and C.
+A simple project implementation based on DSA and C.
